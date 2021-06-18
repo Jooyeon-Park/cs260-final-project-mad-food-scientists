@@ -28,7 +28,7 @@
 
     <footer>
       <p class="copyright">
-      <a href = "https://github.com/Jooyeon-Park/cs260-creative-project"> https://github.com/Jooyeon-Park/cs260-creative-project</a>
+      <a href = "https://github.com/Jooyeon-Park/cs260-mad-food-scientists"> https://github.com/Jooyeon-Park/cs260-creative-project</a>
       <br>Time Spent: 30hrs<br>Jooyeon Park © 2021<br></p>
     </footer>  
   </div>
